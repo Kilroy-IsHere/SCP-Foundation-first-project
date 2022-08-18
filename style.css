@@ -1,0 +1,18 @@
+.site-logo{
+    width: 420x;
+    height: 114px;
+    margin: 10px;
+    background-color: white;
+}
+
+.site-header{
+    width: 100%;
+    height: 120px;
+    color: red;
+}
+
+.main{
+    background-color: #202020;
+    color: whitesmoke;
+}
+
