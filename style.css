@@ -44,3 +44,15 @@
     width:90%;
     height:100%;
 }
+
+.safe{
+    background-color: green;
+}
+
+.euclide{
+    background-color: orange;
+}
+
+.keter{
+    background-color: red;
+}
