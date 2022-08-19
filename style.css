@@ -16,3 +16,8 @@
     color: whitesmoke;
 }
 
+.link{
+    color:black;
+    text-decoration: none; 
+    background-color: none;
+}
