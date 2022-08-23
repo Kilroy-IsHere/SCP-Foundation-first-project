@@ -63,3 +63,17 @@
 .keter{
     background-color: red;
 }
+
+@media screen and (max-width: 480px){
+    .brand-logo{
+        display: none;
+    }
+
+    .navbar{
+        height: 300px;
+    }
+
+    .btn{
+        width:480px;
+    }
+}
