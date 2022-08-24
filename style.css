@@ -80,5 +80,10 @@
     .im-logo{
         height: 130px;
         width: 130px;
-    }    
+    }
+
+    .cla-img{
+        height: 232px;
+        width: 480px;
+    }
 }
