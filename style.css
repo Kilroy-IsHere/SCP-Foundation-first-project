@@ -9,6 +9,9 @@
     height: 120px;
     color: red;
 }
+.head{
+    background-color: lightgray;
+}
 .nav-quote{
     width: 400px;
     height: 15px;
@@ -60,7 +63,7 @@
         height: 300px;
     }
     .btn{
-        width: 440px;
+        width: 480px;
     }
     .im-logo{
         height: 128px;
