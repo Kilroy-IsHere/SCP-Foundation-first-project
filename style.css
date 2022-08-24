@@ -4,89 +4,72 @@
     margin: 10px;
     background-color: white;
 }
-
 .site-header{
     width: 100%;
     height: 120px;
     color: red;
 }
-
 .nav-quote{
     width: 400px;
-    height:15px;
+    height: 15px;
     text-align: center;
 }
-
 .main{
     background-color: #202020;
     color: whitesmoke;
 }
-
 .foot-spacer{
-    width:100%;
-    height: 160px;
+    width: 100%;
+    height: 30px;
     background-color: #202020;
     color:white;
 }
-
 .spacer-bar{
-    width:100%;
-    height:5px;
+    width: 100%;
+    height: 5px;
     background-color:#202020;
 }
-
 .space-void{
-    width:100%;
-    height:80px;
+    width: 100%;
+    height: 80px;
     background-color: whitesmoke;
 }
-
 .space-void-in-text{
-    width:100%;
-    height:80px;
+    width: 100%;
+    height: 80px;
     background-color: white;
 }
-
 .main-body-text{
-    width:90%;
-    height:100%;
+    width: 90%;
+    height: 100%;
 }
-
 .safe{
     background-color: green;
 }
-
 .euclide{
     background-color: orange;
 }
-
 .keter{
     background-color: red;
 }
-
 @media screen and (max-width: 480px){
     .brand-logo{
         display: none;
     }
-
     .navbar{
         height: 300px;
     }
-
     .btn{
-        width:480px;
+        width: 480px;
     }
-
     .im-logo{
-        height: 130px;
-        width: 130px;
+        height: 128px;
+        width: 128px;
     }
-
     .cla-img{
         height: 232px;
         width: 480px;
     }
-
     .foot-spacer{
         font-size: 0.7em;
     }
