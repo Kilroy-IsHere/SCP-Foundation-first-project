@@ -76,4 +76,9 @@
     .btn{
         width:480px;
     }
+
+    .im-logo{
+        height: 130px;
+        width: 130px;
+    }    
 }
